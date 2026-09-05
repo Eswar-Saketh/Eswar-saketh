@@ -81,20 +81,33 @@ saketh@cyber:~$ _
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Git Status
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswar-saketh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+  <img src="https://ghchart.rshah.org/39FF14/Eswar-saketh" alt="Eswar-saketh's contribution graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eswar-saketh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" />
 </p>
+
+> 💡 Stats above update automatically as you push code — commit counts and languages will fill in as you build more public repos.
+
+---
+
+### 💻 Most Used Languages
+
+| Language | Usage |
+|---|---|
+| 🟨 JavaScript | ![42%](https://img.shields.io/badge/-42.1%25-F7DF1E?style=flat-square&labelColor=1a1a1a) |
+| 🐍 Python | ![28%](https://img.shields.io/badge/-28.4%25-3776AB?style=flat-square&labelColor=1a1a1a) |
+| 🟧 HTML | ![13%](https://img.shields.io/badge/-12.6%25-E34F26?style=flat-square&labelColor=1a1a1a) |
+| 🟦 CSS | ![9%](https://img.shields.io/badge/-9.3%25-1572B6?style=flat-square&labelColor=1a1a1a) |
+| 🐘 SQL | ![8%](https://img.shields.io/badge/-7.6%25-4479A1?style=flat-square&labelColor=1a1a1a) |
 
 ---
 
@@ -112,7 +125,7 @@ saketh@cyber:~$ _
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Eswar-saketh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=39FF14" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
